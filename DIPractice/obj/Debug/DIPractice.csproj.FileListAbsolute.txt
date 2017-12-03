@@ -1,0 +1,9 @@
+c:\users\khedet\documents\visual studio 2015\Projects\DIPractice\DIPractice\bin\Debug\DIPractice.exe.config
+c:\users\khedet\documents\visual studio 2015\Projects\DIPractice\DIPractice\obj\Debug\DIPractice.csprojResolveAssemblyReference.cache
+c:\users\khedet\documents\visual studio 2015\Projects\DIPractice\DIPractice\bin\Debug\DIPractice.exe
+c:\users\khedet\documents\visual studio 2015\Projects\DIPractice\DIPractice\bin\Debug\DIPractice.pdb
+c:\users\khedet\documents\visual studio 2015\Projects\DIPractice\DIPractice\bin\Debug\Castle.Core.dll
+c:\users\khedet\documents\visual studio 2015\Projects\DIPractice\DIPractice\bin\Debug\Castle.Windsor.dll
+c:\users\khedet\documents\visual studio 2015\Projects\DIPractice\DIPractice\bin\Debug\Castle.Windsor.xml
+c:\users\khedet\documents\visual studio 2015\Projects\DIPractice\DIPractice\obj\Debug\DIPractice.exe
+c:\users\khedet\documents\visual studio 2015\Projects\DIPractice\DIPractice\obj\Debug\DIPractice.pdb
