@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace DIPractice
 {
+    //Test Comment
     class CompositionRoot : ICompositionRoot
     {
         IConsoleWriter _consoleWriter;
